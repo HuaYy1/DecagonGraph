@@ -48,8 +48,6 @@ $python main_real_data.py
 双线性，dedicom）和损失函数（铰链损失，交叉熵）。许多深层变异是可能的，什么有效
 最好的可能取决于具体的用例。
 
-
-
 ##要求
 Decagon经过测试可以在Python 2和Python 3下工作。
 需要最新版本的Tensorflow、sklearn、networkx、numpy和scipy。可以使用以下命令安装所有必需的软件包：
